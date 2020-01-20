@@ -1,2 +1,3 @@
-# aod2
-Automatic Onset Detection Dataset
+# Automatic Onset Detection Dataset
+
+A dataset with annotated onsets for monophonic single instruments.
